@@ -47,16 +47,22 @@ The visual/design exploration can combine:
 - Solar-renewal symbolism
 - Layered transformation from small object to world-scale entity
 
+## Contact
+
+For project questions, research discussion, collaboration, or other messages, please use the repository's GitHub contact channel:
+
+**[Open an Issue](https://github.com/n02220249/katamari/issues)**
+
+A dedicated masked email-forwarding address can be added here once a forwarding service/domain is configured. No separate inbox is required for that setup.
+
 ## Repository structure
 
 ```
 /
 ├── README.md
-├── docs/
-│   ├── CHECKPOINT.md
-│   └── SYMBOLIC_PATHS.md
-└── research/
-    └── sources/
+└── docs/
+    ├── CORRELATION_ANALYSIS.md
+    └── CORRELATION_MAP.md
 ```
 
 ## Versioning rule
